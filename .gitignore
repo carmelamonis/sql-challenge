@@ -1,5 +1,5 @@
 #Password file
-passwordfile.pd
+passwordfile.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
