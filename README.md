@@ -99,16 +99,7 @@ Evidence in hand, you march into your boss's office and present the visualizatio
 
 * Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
 
-## Rubric
-
-[Unit 9 Rubric - SQL Homework - Employee Database: A Mystery in Two Parts](https://docs.google.com/document/d/1OksnTYNCT0v0E-VkhIMJ9-iG0_oXNwCZAJlKV0aVMKQ/edit?usp=sharing)
-
-- - -
 
 ## References
 
 Mockaroo, LLC. (2021). Realistic Data Generator. [https://www.mockaroo.com/](https://www.mockaroo.com/)
-
-- - -
-
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
